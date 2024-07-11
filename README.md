@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipsharif&label=Profile%20views&color=0e75b6&style=flat" alt="adipsharif" /> </p>
 
-- 🌱 I’m currently working on **OSCE3**
+- 🌱 I’m currently working on **OSCE3 (Offensive Security Certified Expert)**
 
 - 📝 I regularly write articles on [adipsharif@medium.com](adipsharif@medium.com)
 
