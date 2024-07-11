@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [adipsharif@medium.com](adipsharif@medium.com)
 
-- 💬 Ask me about **Penetration Testing x Application Vulnerability Research**
+- 💬 Ask me about **Penetration Testing ft Application Vulnerability Research**
 
 - 📚I am pursuing a Bachelors in Cyber-security (BS) from Lindenwood University
   
