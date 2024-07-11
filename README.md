@@ -10,7 +10,7 @@
 
 - 📚I am pursuing a Bachelors in Cyber-security (BS) from Lindenwood University
   
-- 💬  Certification On Going : GPEN (In Progress) | OSCE3
+- 💬  Certification on going : OSCE3 | GPEN (In Progress)
 
 - 📫 How to reach me **adipsharif@outlook.com**
 
