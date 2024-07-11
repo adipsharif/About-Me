@@ -8,8 +8,10 @@
 - 📝 I regularly write articles on [adipsharif@medium.com](adipsharif@medium.com)
 
 - 💬 Ask me about **Penetration Testing x Application Vulnerability Research**
+
+📚I am pursuing a Bachelors in Cyber-security (BS) from Lindenwood University
   
-- 💬  Certification On Going : GPEN | OSCE3
+- 💬  Certification On Going : GPEN (In Progress) | OSCE3
 
 - 📫 How to reach me **adipsharif@outlook.com**
 
