@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipsharif&label=Profile%20views&color=0e75b6&style=flat" alt="adipsharif" /> </p>
 
+![450115146_122184473396021782_8774731107174866434_n](https://github.com/adipsharif/About-Me/assets/170817706/0dd01ef0-64ff-4a6a-a9a3-fd15964e46f1)
+
 - 🌱 I’m currently working on **OSCE3**
 
 - 📝 I regularly write articles on [adipsharif@medium.com](adipsharif@medium.com)
