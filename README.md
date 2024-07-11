@@ -1,5 +1,4 @@
-<h1 align="center">Hey 👋, I'm an Offensive Security Researcher</h1>
-<h3 align="center">A passionate Security Researcher from Bangladesh</h3>
+<h1 align="center">Hey 👋 I'm Adip, an Offensive Security Researcher</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipsharif&label=Profile%20views&color=0e75b6&style=flat" alt="adipsharif" /> </p>
 
