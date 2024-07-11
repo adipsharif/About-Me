@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipsharif&label=Profile%20views&color=0e75b6&style=flat" alt="adipsharif" /> </p>
 
-- 🌱 I’m currently learning **OSCE3**
+- 🌱 I’m currently working on **OSCE3**
 
 - 📝 I regularly write articles on [adipsharif@medium.com](adipsharif@medium.com)
 
 - 💬 Ask me about **Penetration Testing x Application Vulnerability Research**
+  
+- 💬  Certification On Going : GPEN , OSCE3
 
 - 📫 How to reach me **adipsharif@outlook.com**
 
