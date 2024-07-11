@@ -2,7 +2,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adipsharif&label=Profile%20views&color=0e75b6&style=flat" alt="adipsharif" /> </p>
 
-![450115146_122184473396021782_8774731107174866434_n](https://github.com/adipsharif/About-Me/assets/170817706/0dd01ef0-64ff-4a6a-a9a3-fd15964e46f1)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram-sized Profile Picture</title>
+    <style>
+        .instagram-profile-pic {
+            max-width: 1080px; /* Adjust as needed */
+            max-height: 1080px; /* Adjust as needed */
+            width: auto;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://github.com/adipsharif/About-Me/assets/170817706/0dd01ef0-64ff-4a6a-a9a3-fd15964e46f1" alt="Profile Picture" class="instagram-profile-pic">
+</body>
+</html>
+
 
 - 🌱 I’m currently working on **OSCE3**
 
