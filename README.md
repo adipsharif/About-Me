@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Penetration Testing x Application Vulnerability Research**
 
-📚I am pursuing a Bachelors in Cyber-security (BS) from Lindenwood University
+- 📚I am pursuing a Bachelors in Cyber-security (BS) from Lindenwood University
   
 - 💬  Certification On Going : GPEN (In Progress) | OSCE3
 
