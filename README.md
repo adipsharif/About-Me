@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Penetration Testing x Application Vulnerability Research**
   
-- 💬  Certification On Going : GPEN , OSCE3
+- 💬  Certification On Going : GPEN | OSCE3
 
 - 📫 How to reach me **adipsharif@outlook.com**
 
